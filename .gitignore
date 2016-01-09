@@ -17,6 +17,7 @@ gen/
 build/
 /*/build/
 product/
+import-summary.txt
 
 # Local configuration file (sdk path, etc)
 local.properties
